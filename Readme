@@ -1,0 +1,17 @@
+Name: Steven Xiong (1263681)
+Date: 4/21/2019
+Class: CSC139 Section #6
+Professor: Yuan Cheng
+
+File: a4.c
+Holds all the code for the FIFO, Optimal, and LRU memory scheduling algorithm. Each of the scheduling mode has its own functions.
+
+File: input1.txt
+The file that the a4.c code will read and get the process information from.
+
+Compile program by going directly to the directory and typing in 
+"gcc -o proj a4.c"
+and type in the commands
+"proj input1.txt fifo" for FIFO,
+"proj input1.txt opt" for OPT, and
+"proj input1.txt lru" for LRU.
